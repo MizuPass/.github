@@ -91,7 +91,10 @@
 - 🎫 **NFT Tickets**: Dynamic QR codes with resale controls
 
 **Deployment:** JSC Kaigan Testnet Ready
-
+MizuPassModule#MizuPassIdentity - 0x9fB07660c625E3819162Ba0a64334C4D7e139E15
+MizuPassModule#MockJPYM - 0x5607DD40f7DFF4f88f504338D92354F7cFdFD178
+MizuPassModule#StealthAddressManager - 0xE263174F9d3b96b5D697CEF79f7286FA91Ca040F
+MizuPassModule#EventRegistry - 0xe4cdc2b610CF13584b884383bfEA3237009CA501
 ---
 
 #### 4. **Zero-Knowledge Circuits** [`mizu-circuit/`]
